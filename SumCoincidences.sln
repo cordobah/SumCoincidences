@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCoincidences", "SumCoincidences\SumCoincidences.csproj", "{BB76B04A-7F89-464E-BB6E-99FB3F892100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCoincidencesLibrary", "SumCoincidencesLibrary\SumCoincidencesLibrary.csproj", "{830483F6-C0DF-4C57-BC40-497D4418F128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCoincidencesLibraryTest", "SumCoincidencesLibraryTest\SumCoincidencesLibraryTest.csproj", "{516A74DD-BB09-49A5-BED4-3CA84B2B8A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB76B04A-7F89-464E-BB6E-99FB3F892100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB76B04A-7F89-464E-BB6E-99FB3F892100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB76B04A-7F89-464E-BB6E-99FB3F892100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB76B04A-7F89-464E-BB6E-99FB3F892100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830483F6-C0DF-4C57-BC40-497D4418F128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830483F6-C0DF-4C57-BC40-497D4418F128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830483F6-C0DF-4C57-BC40-497D4418F128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830483F6-C0DF-4C57-BC40-497D4418F128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516A74DD-BB09-49A5-BED4-3CA84B2B8A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516A74DD-BB09-49A5-BED4-3CA84B2B8A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516A74DD-BB09-49A5-BED4-3CA84B2B8A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516A74DD-BB09-49A5-BED4-3CA84B2B8A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
